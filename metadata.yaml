@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '6903'
     url: http://www.gutenberg.org/2009/agents/6903
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16742#Dan-Merrithew
 gutenberg_issued: '2005-09-24'
 gutenberg_type: Text
 identifiers:
